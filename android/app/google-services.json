@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626024240021",
+    "firebase_url": "https://learnreactnative-6c2a0.firebaseio.com",
+    "project_id": "learnreactnative-6c2a0",
+    "storage_bucket": "learnreactnative-6c2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626024240021:android:89da270898bad7c96cdc9c",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626024240021-0g9lm66mbqugdet6onc78342itsgqhsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9bBQmdWgkQYWB5G7QVTtoN4obe8nWTT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626024240021-0g9lm66mbqugdet6onc78342itsgqhsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
